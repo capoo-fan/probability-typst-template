@@ -17,23 +17,23 @@
 
 ## 🚀 快速开始
 
-### 在线使用（推荐）
 
+### 本地使用（推荐）
+
+1. 安装 [Visual Studio Code](https://code.visualstudio.com/)
+2. 安装 VSCode 扩展：[Tinymist Typst](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist)
+3. 克隆或下载本模板
+4. 使用 VSCode 打开项目文件夹
+5. 编辑 `main.typ` 文件
+6. 使用扩展功能进行实时预览和编译
+
+### 在线使用
 1. 访问 [Typst Web App](https://typst.app/)
 2. 上传本模板文件
 3. 修改 `main.typ` 中的个人信息
 4. 开始编写您的论文
 
-### 本地使用
 
-1. 安装 [Typst CLI](https://github.com/typst/typst)
-2. 克隆或下载本模板
-3. 编辑 `main.typ` 文件
-4. 运行编译命令：
-
-```bash
-typst compile main.typ
-```
 
 ## 📁 文件结构
 
