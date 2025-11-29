@@ -3,6 +3,7 @@
 
 #show: probability.with(
   title: "哈尔滨工业大学深圳概率论文",
+  your_title: "你的标题",
   date: datetime(year: 2025, month: 12, day: 1),  // 修改日期
   name: "kai",  // 添加姓名
   student-id: "2024311xxx",  // 添加学号

@@ -10,6 +10,7 @@
 #let cover(
   title: "论文的标题",
   date: none,
+  your_title: " ",
   name: " ",
   student-id: " ",
   class-id: " ",
@@ -26,7 +27,7 @@
     #text(size: 30pt, font: (text-font, heiti), stroke: 0.3pt + black)[概率论与数理统计课程小论文]
     #v(40pt)
     
-    #text(size: 20pt, font: (text-font, heiti))[题目]
+    #text(size: 20pt, font: (text-font, heiti))[#your_title]
   
     
     #v(60pt)
@@ -61,6 +62,7 @@
 
 #let probability(
   title: "哈尔滨工业大学深圳概率论文",
+  your_title: " ",
   date: none,
   name: "kai",
   student-id: "2024311xxx",
@@ -151,6 +153,7 @@
   if cover-display == true [
     #show: cover.with(
       title: title,
+      your_title: your_title,
       name: name,
       student-id: student-id,
       class-id: class-id,
