@@ -26,6 +26,7 @@
 4. 使用 VSCode 打开项目文件夹
 5. 编辑 `main.typ` 文件
 6. 使用扩展功能进行实时预览和编译
+7. 注意，由于 [全国大学生数学建模竞赛 Typst 模板](https://typst.app/universe/package/cumcm-muban)只目前支持到Typst 0.13，在某些情况下Tinymist需要使用历史版本
 
 ### 在线使用
 1. 访问 [Typst Web App](https://typst.app/)
